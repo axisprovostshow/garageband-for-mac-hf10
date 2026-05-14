@@ -1,4 +1,4 @@
-# 
+# Enhance GarageBand for macOS with secure GarageBand for macOS Overlay | echo-removal + compressor, the #1 overlay. Includes echo-removal and compressor for a smoother and more
 
 
 
